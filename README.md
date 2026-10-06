@@ -39,13 +39,13 @@ The analysis aims to:
 - Assess order status and outstanding procurement exposure.
 - Identify opportunities to improve procurement decisions through data-driven insights.
 
-- ## Key KPIs
+## Key KPIs
 
 | KPI | Result |
 |---|---:|
 | Total Procurement Spend | $45.37M |
 | Potential Spend | $49.30M |
-| Total Negotiated Savings | $3.93M |
+| Potential Savings | $3.93M |
 | Savings Rate | 7.97% |
 | Average Lead Time | 10.8 days |
 | Reported Defect Rate | 6.80% |
@@ -57,9 +57,9 @@ The analysis aims to:
 - **Power BI** — Data modeling, DAX measures, analysis, and dashboard development
 - **DAX** — Procurement KPI calculations and performance metrics
 
-- ## Key Insights
+## Key Insights
 
-- **Delta Logistics** shows the highest reported defect rate at **14.43%** and the lowest supplier compliance at approximately **60.82%**, making it the highest-priority supplier for performance review.
+- **Delta Logistics** shows the highest reported defect rate at **14.43%** and the lowest supplier compliance at approximately **60.82%**, making it a high-priority supplier for performance review.
 
 - **Beta Supplies and Epsilon Group** account for approximately **43.44% of total procurement spend**, creating a significant level of supplier concentration.
 
@@ -69,9 +69,9 @@ The analysis aims to:
 
 - **MRO and Office Supplies** represent approximately **44.37% of total procurement spend**, making them the largest combined category spend.
 
-- Overall negotiated savings were approximately **$3.93M**, representing a **7.97% savings rate** against the potential spend benchmark.
+- Overall potential savings were approximately **$3.93M**, representing a **7.97% savings rate** against the potential spend benchmark.
 
-- ## Recommendations
+## Recommendations
 
 Based on the analysis, the following actions are recommended:
 
