@@ -8,6 +8,8 @@ This project analyzes procurement data to evaluate spending patterns, supplier p
 
 The analysis focuses on identifying procurement risks, supplier performance gaps, and opportunities for better purchasing decisions.
 
+![Procurement Dashboard](Procurement_Spend_&_Supplier_Performance_Dashboard.png)
+
 ## Dataset
 
 The dataset contains 777 purchase orders covering procurement transactions across multiple suppliers and item categories.
