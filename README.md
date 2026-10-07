@@ -47,7 +47,6 @@ The analysis aims to:
 | Potential Spend | $49.30M |
 | Potential Savings | $3.93M |
 | Savings Rate | 7.97% |
-| Average Lead Time | 10.8 days |
 | Reported Defect Rate | 6.80% |
 | Purchase Orders | 777 |
 
