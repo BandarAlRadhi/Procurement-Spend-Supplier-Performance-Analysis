@@ -48,6 +48,7 @@ The analysis aims to:
 | Potential Savings | $3.93M |
 | Savings Rate | 7.97% |
 | Reported Defect Rate | 6.80% |
+| Compliance Rate | 82.37% |
 | Purchase Orders | 777 |
 
 ## Tools & Technologies
